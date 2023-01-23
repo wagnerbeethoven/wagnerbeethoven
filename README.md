@@ -1,6 +1,7 @@
 ## 🤟🏻 Hi there, I'm Wagner!
 
-👨🏻‍🚀🌈 I'm ~30Y/O UI/UX Designer [Agência Sumô](http://sumo.pe) / 🏡 Brazilian, Based in Olinda, PE
+👨🏻‍🚀🌈 I'm ~30Y/O UI/UX Designer [Agência Sumô](http://sumo.pe)
+🏡 Brazilian, Based in Olinda, PE
 
 ### About me
 
