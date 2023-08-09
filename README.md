@@ -1,6 +1,6 @@
 # 🤟🏻 Olá, sou Wagner!
 ## Sobre mim
-👨🏻‍🚀🌈 Tenho ~30 anos, sou Designer
+👨🏻‍🚀🌈 Tenho ~30 anos, sou Designer  
 🏡 Brasileiro, residente em Olinda, PE
 
 ---
@@ -16,12 +16,12 @@ Adoro projetar coisas úteis para as necessidades das pessoas.
 
 
 ## Meu encontre
-[Meu site](http://sumo.pe)
-[Meu textps](http://medium.pe)
+[Meu site](http://sumo.pe)  
+[Meu textps](http://medium.pe)  
 
-[LinkedIn](http://linkedin.com/in/wagnerbeethoven)
-[Behance](http://nehance.net/wagnerbeethoven)
-[Medium](http://wagnerbeethoven.medium.com/)
+[LinkedIn](http://linkedin.com/in/wagnerbeethoven)  
+[Behance](http://nehance.net/wagnerbeethoven)  
+[Medium](http://wagnerbeethoven.medium.com/)  
 
 
 ## Meu podcast
