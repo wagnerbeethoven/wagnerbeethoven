@@ -16,13 +16,11 @@ Adoro projetar coisas úteis para as necessidades das pessoas.
 
 
 ## Meu encontre
-[Meu site](http://sumo.pe)  
-[Meu textps](http://medium.pe)  
-
-[LinkedIn](http://linkedin.com/in/wagnerbeethoven)  
-[Behance](http://nehance.net/wagnerbeethoven)  
-[Medium](http://wagnerbeethoven.medium.com/)  
+🔗 [Meu site](http://sumo.pe)  
+💼 [LinkedIn](http://linkedin.com/in/wagnerbeethoven)  
+🎨 [Behance](http://nehance.net/wagnerbeethoven)  
+📓 [Medium](http://wagnerbeethoven.medium.com/)  
 
 
 ## Meu podcast
-[Foco Acessível](http://focoacessivel.hithub.io)
+📻 [Foco Acessível](http://focoacessivel.hithub.io) []
