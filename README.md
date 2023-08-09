@@ -17,4 +17,10 @@ I love designing useful thing for people needs.
 
 ## Find me on
 
+
+
 [![Twitter Badge](https://img.shields.io/badge/-@wagnerbeethoven-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wagnerbeethoven)](https://twitter.com/wagnerbeethoven)  [![Linkedin Badge](https://img.shields.io/badge/-Wagner_Beethoven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerbeethoven//)](https://www.linkedin.com/in/wagnerbeethoven/) [![Gmail Badge](https://img.shields.io/badge/-wagnerbeethoven@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerbeethoven@gmail.com)](mailto:wagnerbeethoven@gmail.com)
+
+
+## Podcast
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4D6HigcXDCdNuCXxrkStWL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
