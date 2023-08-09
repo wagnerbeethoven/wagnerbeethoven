@@ -23,4 +23,5 @@ Adoro projetar coisas úteis para as necessidades das pessoas.
 
 
 ## Meu podcast
-📻 [Foco Acessível](http://focoacessivel.hithub.io) []
+📻 [Foco Acessível](http://focoacessivel.github.io)  
+Acompanhe o podcast no seu aparelho  [**Android**](https://www.subscribeonandroid.com/anchor.fm/s/e14f7d9c/podcast/rss)  e  [**Apple**](https://podcasts.apple.com/us/podcast/foco-access%C3%ADvel/id1690286033)  ou nas plataformas de streaming  [**Spotify**](https://open.spotify.com/show/4D6HigcXDCdNuCXxrkStWL),  [**Youtube**](https://www.youtube.com/@focoacessivel?sub_confirmation=1),  [**Deezer**](https://www.deezer.com/pt/show/6060897)  e  [**Soundcloud**](https://soundcloud.com/focoacessivel).
