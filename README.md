@@ -1,7 +1,7 @@
 # 🤟🏻 Olá, sou Wagner!
 
-## Sobre mim
-👨🏻‍🚀🌈 Tenho aproximadamente 30 anos e sou Product Designer/UX Designer. Resido em Olinda, PE, Brasil 🏡.
+👨🏻‍🚀🌈 Tenho ~40 anos e sou Product Designer/UX Designer.
+Vivo em Olinda, PE, Brasil 🏡
 
 ---
 
