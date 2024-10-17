@@ -20,10 +20,7 @@ Adoro projetar soluções úteis que atendam às necessidades das pessoas.
 
 ## Meu encontre
 
-- 🔗 [Meu site](http://sumo.pe)
-- 💼 [LinkedIn](http://linkedin.com/in/wagnerbeethoven)
-- 🎨 [Behance](http://nehance.net/wagnerbeethoven)
-- 📓 [Medium](http://wagnerbeethoven.medium.com/)  
+🔗 [No meu site](http://sumo.pe), 💼 [LinkedIn](http://linkedin.com/in/wagnerbeethoven), 🎨 [Behance](http://nehance.net/wagnerbeethoven), 📓 [Medium](http://wagnerbeethoven.medium.com/) e no a🗣️ [Threads](http://threads.net/@wagnerbeethoven) 
 
 
 ## Meu podcast
