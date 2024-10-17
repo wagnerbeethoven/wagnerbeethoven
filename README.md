@@ -18,7 +18,7 @@ Adoro projetar soluções úteis que atendam às necessidades das pessoas.
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 
-Você pode me encontrar no **[meu site](http://sumo.pe)** ou o meu currículo no **[LinkedIn](http://linkedin.com/in/wagnerbeethoven)**, projetos **[Behance](http://nehance.net/wagnerbeethoven)**, textos no [Medium](http://wagnerbeethoven.medium.com/), minhas palestras [Speaker Deck](https://speakerdeck.com/wagnerbeethoven/) e algumas notas no [Threads](http://threads.net/@wagnerbeethoven) 
+Você pode me encontrar no [meu site](http://sumo.pe) ou o meu currículo no [LinkedIn](http://linkedin.com/in/wagnerbeethoven), projetos no [Behance](http://nehance.net/wagnerbeethoven), textos no [Medium](http://wagnerbeethoven.medium.com/), palestras no [Speaker Deck](https://speakerdeck.com/wagnerbeethoven/) e algumas notas no [Threads](http://threads.net/@wagnerbeethoven) 
 
 
 # Podcast, [Foco Acessível](http://focoacessivel.com.br)  
