@@ -27,9 +27,6 @@ Adoro projetar soluções úteis que atendam às necessidades das pessoas.
 
 
 ## Meu podcast
-![Foco Acessível](https://focoacessivel.com.br/img/banner.png)
-
-Acompanhe o podcast no seu aparelho Android e Apple ou nas plataformas de streaming:
-
 📻 [Foco Acessível](http://focoacessivel.com.br)  
-Acompanhe o podcast no seu aparelho  [**Android**](https://www.subscribeonandroid.com/anchor.fm/s/e14f7d9c/podcast/rss)  e  [**Apple**](https://podcasts.apple.com/us/podcast/foco-access%C3%ADvel/id1690286033)  ou nas plataformas de streaming  [**Spotify**](https://open.spotify.com/show/4D6HigcXDCdNuCXxrkStWL),  [**Youtube**](https://www.youtube.com/@focoacessivel?sub_confirmation=1),  [**Deezer**](https://www.deezer.com/pt/show/6060897)  e  [**Soundcloud**](https://soundcloud.com/focoacessivel).
+
+Acompanhe o podcast através dos serviços de streaming: [Youtube Music](https://music.youtube.com/playlist?list=PL9WYhQFeI6QTJueIuN6nJ1Yqbaz1si_4V&si=SRFKfMDApzNN_zhz), [Spotify](https://open.spotify.com/show/4D6HigcXDCdNuCXxrkStWL), [Youtube](https://www.youtube.com/@focoacessivel?sub_confirmation=1), [Apple Podcast](https://podcasts.apple.com/us/podcast/foco-access%25C3%25ADvel/id1690286033), [Deezer](https://www.deezer.com/pt/show/6060897), nos [celulares android](https://www.subscribeonandroid.com/anchor.fm/s/e14f7d9c/podcast/rss) e através [site do projeto](http://focoacessivel.com.br) que estão disponibilizados os links e transcrições da conversa, além dos textos complementares no blog.
