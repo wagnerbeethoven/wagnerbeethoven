@@ -4,28 +4,20 @@ Product Designer e UX Designer com ~40 anos, vivendo em Olinda, PE, Brasil.
 Apaixonado por acessibilidade digital e por criar soluções que funcionam de
 verdade para pessoas reais.
 
----
-
 ## Sobre mim
 
 - 🎯 **Foco**: Design, prototipação, pesquisa e acessibilidade (WCAG 2.1)
 - 🔥 **Valores**: Open-source e design inclusivo
 - 🎵 **Hobbies**: Música, quadrinhos, literatura, filmes e séries de terror, suspense e drama
 
----
-
 ## Onde me encontrar
 
-- [Site pessoal](http://wagnerbeethoven.com.br), [LinkedIn](http://linkedin.com/in/wagnerbeethoven), [Behance](http://behance.net/wagnerbeethoven), [Medium](http://wagnerbeethoven.medium.com/), [Speaker Deck](https://speakerdeck.com/wagnerbeethoven/)  e [Bluesky](https://bsky.app/profile/wagnerbeethoven.com.br).
-
----
+[Site pessoal](http://wagnerbeethoven.com.br), [LinkedIn](http://linkedin.com/in/wagnerbeethoven), [Behance](http://behance.net/wagnerbeethoven), [Medium](http://wagnerbeethoven.medium.com/), [Speaker Deck](https://speakerdeck.com/wagnerbeethoven/)  e [Bluesky](https://bsky.app/profile/wagnerbeethoven.com.br).
 
 ## Tecnologias
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-
----
 
 ## 🎙️ Foco Acessível
 
