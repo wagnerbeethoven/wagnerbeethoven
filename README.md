@@ -23,7 +23,7 @@ verdade para pessoas reais.
 | [Behance](http://behance.net/wagnerbeethoven) | Projetos de design |
 | [Medium](http://wagnerbeethoven.medium.com/) | Artigos |
 | [Speaker Deck](https://speakerdeck.com/wagnerbeethoven/) | Palestras |
-| [Bluesky]([http://threads.net/@wagnerbeethoven](https://bsky.app/profile/wagnerbeethoven.com.br)) | Notas e pensamentos |
+| [Bluesky](https://bsky.app/profile/wagnerbeethoven.com.br) | Notas e pensamentos |
 
 ---
 
